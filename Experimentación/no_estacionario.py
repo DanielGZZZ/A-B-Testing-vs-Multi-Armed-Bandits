@@ -213,7 +213,7 @@ plt.legend(fontsize=12)
 plt.grid(True)
 plt.show()
 
-# Grafica 2 - Zoom en la transición cultural (re-aprendizaje de Thompson Sampling)
+# Grafica 2 - Zoom en la transición cultural
 plt.figure(figsize=(12, 6))
 
 for est in estrategias:
